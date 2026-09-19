@@ -1,0 +1,7 @@
+{
+  "name": "DealerSnack B2B Order Management System",
+  "description": "B2B snack ordering platform for dealers and customers featuring separate customer ordering and admin dashboards with role-based access, price security, real-time alerts, and WhatsApp invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
